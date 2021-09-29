@@ -2,3 +2,4 @@ Mi tercer primer repositorio.
 o para ponerlo mas claro mi tercer intento por aprender GIT y hacer commits
 ya tengo sueño.
 Ayer hice mi primera historieta animada con CSS
+ahora acabo  de hacer un commit sin mensaje y me llevo a una ventana loca, que me pide que ingrese el mensaje. los hice, luego para salir de aquella ventana hay que presionar las teclas: escape, Shif, z, z una despues de otra.
