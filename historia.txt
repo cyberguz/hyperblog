@@ -1,2 +1,3 @@
 Mi tercer primer repositorio.
-opara ponerlo mas claro mi tercer intento por aprender GIT y hacer commits
+o para ponerlo mas claro mi tercer intento por aprender GIT y hacer commits
+ya tengo suenno
