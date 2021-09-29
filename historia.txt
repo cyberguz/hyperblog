@@ -1,3 +1,4 @@
 Mi tercer primer repositorio.
 o para ponerlo mas claro mi tercer intento por aprender GIT y hacer commits
-ya tengo suenno
+ya tengo sueño.
+Ayer hice mi primera historieta animada con CSS
